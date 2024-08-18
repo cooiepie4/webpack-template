@@ -1,0 +1,6 @@
+npm init 
+npm i --save-dev html-webpack-plugin
+npm install --save-dev style-loader
+npm install eslint --save-dev
+npm install prettier --save-dev
+npx install-peerdeps --dev eslint-config-airbnb-base
